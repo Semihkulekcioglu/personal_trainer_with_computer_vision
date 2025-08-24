@@ -46,6 +46,8 @@ cap = cv2.VideoCapture("video_dosyaniz.mp4")
 
 ## Örnek Çıktılar
 
+<img width="640" height="640" alt="Output_3" src="https://github.com/user-attachments/assets/3fdbdf14-5955-46f8-8435-061575437956" />
+
 Örnek çıktılar Results klasöründe bulunmaktadır.
 
 ## Detaylı Özellikler
